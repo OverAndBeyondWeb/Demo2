@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UF-8">
+        <title>Hello Bootcamp</title>
+    </head>
+    <body>
+        <!-- Heading 1 -->
+        <h1>Hello Bootcamp</h1>
+
+        <!-- Image -->
+        <img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fvignette.wikia.nocookie.net%2Fspongebob%2Fimages%2Fa%2Fac%2FSpongebobwithglasses.jpeg%2Frevision%2Flatest%3Fcb%3D20121014113150&imgrefurl=http%3A%2F%2Fspongebob.wikia.com%2Fwiki%2FSpongeBob_SquarePants_(character)&docid=Rse3k1WCC1yuiM&tbnid=oEp61PvLOa8Z-M%3A&vet=10ahUKEwj4kc3QgqHZAhXoc98KHdp6BpAQMwjWASgAMAA..i&w=1860&h=2400&bih=736&biw=1440&q=spongebob&ved=0ahUKEwj4kc3QgqHZAhXoc98KHdp6BpAQMwjWASgAMAA&iact=mrc&uact=8" alt="a picture of sponge bob"/>
+        <br/>
+
+        <!--Link that opens on a new tab -->
+        <a href="https://google.com" target="_blank">Opens Google in a new tab</a>
+        <br/>
+        <!-- Bold Link -->
+        <strong>
+            <a href= "https://google.com" > Bold link to google</strong>
+                <br/>
+    </body>
+
+</htmL>
+</html>
